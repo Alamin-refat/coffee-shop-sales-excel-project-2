@@ -96,3 +96,23 @@ Strategic analysis of **149K+ transactions** and **$698K+ in total revenue** rev
 
 ---
 
+## 📁 Project Structure
+
+coffee-shop-sales-excel-project-2/
+│
+├── 📁 Dashboard/
+│   └── Coffee Shop Sales Dashboard.xlsx      # Main Excel file containing the interactive dashboard, pivot tables, and cleaned data
+│
+├── 📁 Images/
+│   ├── Dashboard Screenshot 1.png            # Visual preview of the main dashboard view
+│   ├── Dashboard Screenshot 2.png            # Additional screenshot showing filtered views or charts
+│   └── Dashboard Screenshot 3.png            # Another visual highlight of key metrics
+│
+├── 📁 Data/                                    # (Implied folder based on project context)
+│   └── coffee_shop_sales_data.csv             # Raw dataset with 149,116 transactions (likely CSV format)
+│
+├── README.md                                   # Main project documentation (overview, objectives, features, insights)
+│
+└── 📄 .gitattributes                           # Git settings for handling line endings and file compatibility
+
+---
