@@ -36,3 +36,15 @@ The main objectives of this project are:
 - **Provide an interactive and visual business dashboard** that enables quick decision-making through clear and insightful data visualization.
 
 ---
+
+## 🛠 Tools & Technologies Used
+
+| Tool | Purpose |
+|-----|------|
+| Microsoft Excel | Data Analysis & Dashboard Creation |
+| Pivot Tables | Data Aggregation |
+| Pivot Charts | Visualization |
+| Data Cleaning | Preparing dataset |
+| Dashboard Design | Business Insights Visualization |
+
+---
