@@ -55,8 +55,6 @@ It contains detailed transaction-level data that allows analysis of **sales perf
 - **Data Type:** Transaction-level sales data  
 - **Purpose:** Sales analysis and dashboard visualization
 
----
-
 ### 📈 Dataset Usage in the Dashboard
 
 This dataset enables multiple analytical perspectives, including:
