@@ -98,6 +98,7 @@ Strategic analysis of **149K+ transactions** and **$698K+ in total revenue** rev
 
 ## 📁 Project Structure
 
+```
 coffee-shop-sales-excel-project-2/
 │
 ├── 📁 Dashboard/
@@ -114,5 +115,5 @@ coffee-shop-sales-excel-project-2/
 ├── README.md                                   # Main project documentation (overview, objectives, features, insights)
 │
 └── 📄 .gitattributes                           # Git settings for handling line endings and file compatibility
-
+```
 ---
