@@ -75,3 +75,18 @@ This dataset enables multiple analytical perspectives, including:
 - **Weekday order analysis**
 
 The dataset was specifically structured to support the creation of an **interactive Excel dashboard for business insights and decision-making**.
+
+---
+
+## 📈 Dashboard Features
+
+- **KPI Overview:** Displays key metrics including Total Sales, Total Footfall, Average Bill per Person, and Average Orders per Person.
+- **Hourly Order Trend:** Visualizes order quantity by hour to identify peak business hours and customer demand patterns.
+- **Category Sales Distribution:** Shows the percentage contribution of different product categories such as Coffee, Tea, and Bakery to total sales.
+- **Order Size Analysis:** Analyzes order distribution by size (Small, Regular, Large) to understand customer preferences.
+- **Store Location Performance:** Compares sales and footfall across different store locations to identify top-performing branches.
+- **Top Selling Products:** Highlights the top 5 products generating the highest revenue.
+- **Weekday Order Analysis:** Examines order volume across weekdays to identify high and low traffic days.
+- **Interactive Filters:** Includes slicers for month and day to enable dynamic and flexible data exploration.
+
+---
