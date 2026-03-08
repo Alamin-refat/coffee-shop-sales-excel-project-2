@@ -55,7 +55,7 @@ It contains detailed transaction-level data that allows analysis of **sales perf
 - **Data Type:** Transaction-level sales data  
 - **Purpose:** Sales analysis and dashboard visualization
 
-### 📈 Dataset Usage in the Dashboard
+### 🗄️ Dataset Usage in the Dashboard
 
 This dataset enables multiple analytical perspectives, including:
 
@@ -82,3 +82,17 @@ The dataset was specifically structured to support the creation of an **interact
 - **Interactive Filters:** Includes slicers for month and day to enable dynamic and flexible data exploration.
 
 ---
+
+## 💡 Key Business Insights
+
+Strategic analysis of **149K+ transactions** and **$698K+ in total revenue** revealed the following core business drivers:
+
+* **Revenue Leaders:** **Coffee and Tea** are the primary anchors of the business, with high-velocity sales in Gourmet Beans and Brewed Herbal Tea.
+* **Peak Demand:** Identified a critical **"Morning Surge" (8:00 AM – 11:00 AM)** across all locations, highlighting the primary window for labor and inventory optimization.
+* **Operational Geography:** Balanced revenue distribution across **Astoria, Hell's Kitchen, and Lower Manhattan**, indicating strong market penetration in diverse urban zones.
+* **Consumer Preference:** **Large-sized beverages** dominate the sales mix (44K+ units), proving a customer preference for higher-volume offerings.
+* **Cross-Selling Potential:** The **Bakery segment ($82K+)** serves as a vital secondary revenue stream, representing a significant opportunity for bundled promotions with core beverage lines.
+* **Growth Trajectory:** Data shows a consistent **month-over-month upward trend**, peaking in June, reflecting successful customer retention and increasing brand presence.
+
+---
+
