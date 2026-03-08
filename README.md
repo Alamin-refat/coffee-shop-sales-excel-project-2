@@ -22,17 +22,11 @@ The dashboard helps analyze **sales performance, product demand, and revenue tre
 The main objectives of this project are:
 
 - **Analyze overall coffee shop sales performance** by tracking key business metrics such as **Total Sales, Total Footfall, Average Bill per Person, and Average Orders per Person**.
-
 - **Identify peak ordering hours** by analyzing hourly order quantities to understand customer demand patterns throughout the day.
-
 - **Examine product category performance** by analyzing the percentage distribution of sales across different categories such as coffee, tea, bakery, and other beverages.
-
 - **Evaluate store location performance** by comparing total sales and customer footfall across multiple store branches.
-
 - **Discover top-performing products** by identifying the products generating the highest revenue.
-
 - **Analyze order distribution by weekdays** to understand customer purchasing behavior across different days of the week.
-
 - **Provide an interactive and visual business dashboard** that enables quick decision-making through clear and insightful data visualization.
 
 ---
