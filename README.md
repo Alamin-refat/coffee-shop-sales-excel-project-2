@@ -48,3 +48,30 @@ The main objectives of this project are:
 | Dashboard Design | Business Insights Visualization |
 
 ---
+
+## 📂 Dataset
+
+The dataset used in this project is a **self-created coffee shop sales dataset** designed to simulate real-world retail transactions.  
+It contains detailed transaction-level data that allows analysis of **sales performance, customer behavior, product demand, and store performance**.
+
+### 📊 Dataset Summary
+
+- **Total Records:** 149,116 transactions  
+- **Total Columns:** 18  
+- **Data Type:** Transaction-level sales data  
+- **Purpose:** Sales analysis and dashboard visualization
+
+---
+
+### 📈 Dataset Usage in the Dashboard
+
+This dataset enables multiple analytical perspectives, including:
+
+- **Sales performance analysis**
+- **Hourly order trends**
+- **Product category distribution**
+- **Top-selling products**
+- **Store location performance**
+- **Weekday order analysis**
+
+The dataset was specifically structured to support the creation of an **interactive Excel dashboard for business insights and decision-making**.
