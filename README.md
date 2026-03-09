@@ -163,3 +163,9 @@ Experienced in creating **interactive dashboards using Microsoft Excel** to supp
 If you found this project useful, consider **starring the repository** to support the work.
 
 ---
+
+## ⚖️ License
+
+This project is licensed under the **MIT License**. You are free to use, modify, and distribute this project as long as you provide attribution to the original author.
+
+---
