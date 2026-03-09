@@ -107,14 +107,9 @@ coffee-shop-sales-excel-project-2/
 ├── 📁 Images/
 │   ├── Dashboard Screenshot 1.png            # Visual preview of the main dashboard view
 │   ├── Dashboard Screenshot 2.png            # Additional screenshot showing filtered views or charts
-│   └── Dashboard Screenshot 3.png            # Another visual highlight of key metrics
-│
-├── 📁 Data/                                    # (Implied folder based on project context)
-│   └── coffee_shop_sales_data.csv             # Raw dataset with 149,116 transactions (likely CSV format)
-│
 ├── README.md                                   # Main project documentation (overview, objectives, features, insights)
 │
-└── 📄 .gitattributes                           # Git settings for handling line endings and file compatibility
+└── LICENSE                                              # MIT License file
 ```
 ---
 
