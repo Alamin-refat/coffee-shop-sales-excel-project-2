@@ -107,9 +107,10 @@ coffee-shop-sales-excel-project-2/
 ├── 📁 Images/
 │   ├── Dashboard Screenshot 1.png            # Visual preview of the main dashboard view
 │   ├── Dashboard Screenshot 2.png            # Additional screenshot showing filtered views or charts
-├── README.md                                   # Main project documentation (overview, objectives, features, insights)
+├── LICENSE                                   # MIT License file
 │
-└── LICENSE                                              # MIT License file
+└── README.md                                 # Main project documentation (overview, objectives, features, insights)
+
 ```
 ---
 
