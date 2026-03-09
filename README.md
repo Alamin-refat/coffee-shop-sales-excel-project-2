@@ -1,5 +1,7 @@
 # ☕ Coffee Shop Sales Dashboard (Excel Project)
 
+![Dashboard Preview](Images/Capture2.PNG)
+
 ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-green)
 ![Dashboard](https://img.shields.io/badge/Project-Dashboard-blue)
 ![Data Analysis](https://img.shields.io/badge/Field-Data%20Analytics-orange)
