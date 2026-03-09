@@ -166,6 +166,10 @@ If you found this project useful, consider **starring the repository** to suppor
 
 ## ⚖️ License
 
-This project is licensed under the **MIT License**. You are free to use, modify, and distribute this project as long as you provide attribution to the original author.
+This project is licensed under the **MIT License**.
+
+You are free to use, modify, and distribute this project for personal or commercial purposes, provided that proper credit is given to the original author.
+
+See the LICENSE file for more details.
 
 ---
