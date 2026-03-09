@@ -105,7 +105,7 @@ Strategic analysis of **149K+ transactions** and **$698K+ in total revenue** rev
 coffee-shop-sales-excel-project-2/
 │
 ├── 📁 Dashboard/
-│   └── coffe-shop-sales-excel-project2.xlsx      # Main Excel file containing the interactive dashboard, pivot tables, and cleaned data
+│   └── coffe-shop-sales-excel-project2.xlsx  # Main Excel file containing the interactive dashboard, pivot tables, and cleaned data
 │
 ├── 📁 Images/
 │   ├── Capture.PNG                           # Visual preview of the main dashboard view
