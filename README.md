@@ -153,7 +153,7 @@ Experienced in creating **interactive dashboards using Microsoft Excel** to supp
 ### 🔗 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Alamin--refat-black?logo=github)](https://github.com/Alamin-refat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/alaminrefat1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([www.linkedin.com/in/alaminrefat1](https://www.linkedin.com/in/alaminrefat1/))
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&logoColor=white)](mailto:alaminrefat2017@gmail.com)
 
 ---
