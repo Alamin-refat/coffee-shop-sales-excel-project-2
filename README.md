@@ -105,11 +105,11 @@ Strategic analysis of **149K+ transactions** and **$698K+ in total revenue** rev
 coffee-shop-sales-excel-project-2/
 │
 ├── 📁 Dashboard/
-│   └── Coffee Shop Sales Dashboard.xlsx      # Main Excel file containing the interactive dashboard, pivot tables, and cleaned data
+│   └── coffe-shop-sales-excel-project2.xlsx      # Main Excel file containing the interactive dashboard, pivot tables, and cleaned data
 │
 ├── 📁 Images/
-│   ├── Dashboard Screenshot 1.png            # Visual preview of the main dashboard view
-│   ├── Dashboard Screenshot 2.png            # Additional screenshot showing filtered views or charts
+│   ├── Capture.png                           # Visual preview of the main dashboard view
+│   ├── Capture2.png                          # Additional screenshot showing filtered views or charts
 ├── LICENSE                                   # MIT License file
 │
 └── README.md                                 # Main project documentation (overview, objectives, features, insights)
@@ -153,7 +153,7 @@ Experienced in creating **interactive dashboards using Microsoft Excel** to supp
 
 [![GitHub](https://img.shields.io/badge/GitHub-Alamin--refat-black?logo=github)](https://github.com/Alamin-refat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alamin%20Refat-blue?logo=linkedin)](https://www.linkedin.com/in/alaminrefat1/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&logoColor=white)](mailto:alaminrefat2017@gmail.com)
 
 ---
 
