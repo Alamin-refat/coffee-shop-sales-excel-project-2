@@ -132,4 +132,13 @@ git clone https://github.com/Alamin-refat/coffee-shop-sales-excel-project-2.git
 
 ---
 
+## 📌 Future Improvements
+
+- Build a **Power BI version** of the dashboard  
+- Add **automated data refresh**  
+- Include **advanced KPI metrics**  
+- Expand the **dataset for deeper analysis**
+
+---
+
 
