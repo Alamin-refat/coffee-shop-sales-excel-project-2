@@ -108,7 +108,7 @@ coffee-shop-sales-excel-project-2/
 │   └── coffe-shop-sales-excel-project2.xlsx      # Main Excel file containing the interactive dashboard, pivot tables, and cleaned data
 │
 ├── 📁 Images/
-│   ├── Capture.PNG                          # Visual preview of the main dashboard view
+│   ├── Capture.PNG                           # Visual preview of the main dashboard view
 │   ├── Capture2.PNG                          # Additional screenshot showing filtered views or charts
 ├── LICENSE                                   # MIT License file
 │
