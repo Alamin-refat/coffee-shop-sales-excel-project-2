@@ -117,3 +117,19 @@ coffee-shop-sales-excel-project-2/
 └── 📄 .gitattributes                           # Git settings for handling line endings and file compatibility
 ```
 ---
+
+## 🚀 How to Use
+
+1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/Alamin-refat/coffee-shop-sales-excel-project-2.git
+
+```
+2️⃣ Explore the interactive dashboard.
+
+3️⃣ Analyze the sales insights and trends using the visualizations.
+
+---
+
+
