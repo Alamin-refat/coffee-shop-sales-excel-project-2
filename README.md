@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Sales Dashboard (Excel Project)
+# ☕ Coffee Shop Sales Dashboard | Data Analytics Project
 
 ![Dashboard Preview](Images/Capture2.PNG)
 
@@ -6,6 +6,7 @@
 ![Dashboard](https://img.shields.io/badge/Project-Dashboard-blue)
 ![Data Analysis](https://img.shields.io/badge/Field-Data%20Analytics-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Alamin-refat/coffee-shop-sales-excel-project-2?style=social)
 
 ---
