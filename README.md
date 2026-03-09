@@ -158,3 +158,8 @@ Experienced in creating **interactive dashboards using Microsoft Excel** to supp
 
 ---
 
+## ⭐ Support
+
+If you found this project useful, consider **starring the repository** to support the work.
+
+---
