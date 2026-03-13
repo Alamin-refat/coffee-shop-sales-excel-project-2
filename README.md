@@ -140,12 +140,13 @@ git clone https://github.com/Alamin-refat/coffee-shop-sales-excel-project-2.git
 
 ---
 
-## 👨‍💻 Author
+## 👤 Author
 
 **Alamin Refat**
 
-Aspiring **Data Analyst** passionate about transforming raw data into meaningful insights through **data analysis, dashboard development, and business intelligence tools**.  
-Experienced in creating **interactive dashboards using Microsoft Excel** to support data-driven decision-making.
+**Data Analyst | Machine Learning Engineer** Passionate about turning raw data into meaningful stories through **Advanced Data Analysis** and **Business Intelligence**. I focus on creating **interactive dashboards** and **modular ML projects** that bridge the gap between technical data and business strategy.
+
+Expertise in: **Microsoft Excel (Advanced), SQL, Python, and Machine Learning.**
 
 ---
 
